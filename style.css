@@ -1,0 +1,22 @@
+a {
+    color:red
+}
+
+main a {
+    color: green
+}
+
+.link {
+    color: black;
+}
+
+#one {
+    color: blue
+}
+
+p {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+
+}
